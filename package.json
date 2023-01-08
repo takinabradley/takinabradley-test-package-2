@@ -1,0 +1,20 @@
+{
+  "name": "takinabradley-test-package-2",
+  "version": "1.0.0",
+  "description": "test uploading npm package using github",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takinabradley/takinabradley-test-package-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takinabradley/takinabradley-test-package-2/issues"
+  },
+  "homepage": "https://github.com/takinabradley/takinabradley-test-package-2#readme"
+}
